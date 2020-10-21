@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Float.cpp">
+    <ClCompile Include="Var.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
